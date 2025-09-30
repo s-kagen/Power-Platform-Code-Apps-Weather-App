@@ -1,0 +1,21 @@
+{
+  "appId": "",
+  "appDisplayName": "App From Scratch",
+  "description": null,
+  "environmentId": "1b977a26-4329-ecba-b9e2-d18e40f0f112",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "logoPath": "Default",
+  "localAppUrl": "http://localhost:3000/",
+  "connectionReferences": {
+    "ae70656c-886e-4236-8302-dbde7b7dd877": {
+      "id": "/providers/Microsoft.PowerApps/apis/shared_msnweather",
+      "displayName": "MSN Weather",
+      "dataSources": [
+        "msnweather"
+      ],
+      "dataSets": {}
+    }
+  },
+  "databaseReferences": {}
+}
